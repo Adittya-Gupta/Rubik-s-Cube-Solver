@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = Rubik_Solver_Backend
+	url = https://github.com/Adittya-Gupta/Rubik_Solver_Backend.git
+[submodule "frontend"]
+	path = Rubik_Solver_Frontend
+	url = https://github.com/Adittya-Gupta/Rubik_Solver_Frontend.git
