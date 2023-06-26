@@ -61,12 +61,12 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 <div>
-  <img src="images/screenshot5.jpeg" alt="Logo" width="320" height="900">
-  <img src="images/screenshot2.jpeg" alt="Logo" width="320" height="900">
-  <img src="images/screenshot3.jpeg" alt="Logo" width="320" height="900">
-  <img src="images/screenshot4.jpeg" alt="Logo" width="320" height="900">
-  <img src="images/screenshot1.jpeg" alt="Logo" width="320" height="900">
-  <img src="images/screenshot6.jpeg" alt="Logo" width="320" height="900">
+  <img src="images/screenshot5.jpeg" alt="Logo" width="400" height="1000">
+  <img src="images/screenshot2.jpeg" alt="Logo" width="400" height="1000">
+  <img src="images/screenshot3.jpeg" alt="Logo" width="400" height="1000">
+  <img src="images/screenshot4.jpeg" alt="Logo" width="400" height="1000">
+  <img src="images/screenshot1.jpeg" alt="Logo" width="400" height="1000">
+  <img src="images/screenshot6.jpeg" alt="Logo" width="400" height="1000">
   
 </div>
 
