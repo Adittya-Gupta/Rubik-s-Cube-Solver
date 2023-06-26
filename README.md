@@ -30,7 +30,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="images/logo.png" alt="Logo" width="100" height="100">
   </a>
 
   <h3 align="center">Rubik's Cube Solver</h3>
@@ -60,8 +60,16 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
+<div>
+  <img src="images/screenshot5.jpeg" alt="Logo" width="320" height="900">
+  <img src="images/screenshot2.jpeg" alt="Logo" width="320" height="900">
+  <img src="images/screenshot3.jpeg" alt="Logo" width="320" height="900">
+  <img src="images/screenshot4.jpeg" alt="Logo" width="320" height="900">
+  <img src="images/screenshot1.jpeg" alt="Logo" width="320" height="900">
+  <img src="images/screenshot6.jpeg" alt="Logo" width="320" height="900">
+  
+</div>
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 The aim of this project is to provide a user-friendly interface for people to scramble a 3x3 rubik's cube and get a solution to it
 within seconds. The motivation is to bring the beauty of rubik's cube game to everyone.
@@ -169,4 +177,9 @@ I would like to extend my greatest thanks to these places which I referenced dur
 [issues-url]: https://github.com/Adittya-Gupta/Rubik-s-Cube-Solver/issues
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/adittya-gupta-b64356224/
-[product-screenshot]: images/screenshot.png
+[product-screenshot1]: images/screenshot1.jpeg
+[product-screenshot2]: images/screenshot2.jpeg
+[product-screenshot3]: images/screenshot3.jpeg
+[product-screenshot4]: images/screenshot4.jpeg
+[product-screenshot5]: images/screenshot5.jpeg
+
